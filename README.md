@@ -4,10 +4,10 @@
 
 <h3 align="center"> سڵاو من ناوم هۆکارە 👋</h1>
 
-### Connect with me:
 
 
-<a href="https://discord.com/users/552814506070507531">
+
+<a href="https://discord.com/users/725407103916703755">
     <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
