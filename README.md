@@ -6,9 +6,10 @@
 
 ### Connect with me:
 
-<a href="https://fb.com/dev.hokar" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
 
-
+<a href="https://discord.com/users/552814506070507531">
+    <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
 
 
 
