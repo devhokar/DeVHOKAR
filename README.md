@@ -16,3 +16,5 @@
 
 
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=AngeloCore&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
