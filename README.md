@@ -18,3 +18,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloCore&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
+
+
+![Discord](https://discord.c99.nl/widget/theme-3/725407103916703755.png)
