@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Hokar! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darkboy-js-ops-cyber" alt="sujal-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devhokar-ops-cyber" /> </p>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/725407103916703755.png)
 
